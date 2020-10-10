@@ -1,0 +1,12 @@
+GoogleMap
+
+About
+Drawn the route from pickup to drop location by storing the details in locastorage(COREDATA)
+
+Overview
+Sample MVVM pattern
+Swift 5.0 above
+Xcode 11 above
+Sample CoreData
+JSON to CoreData, CoreData to Model class, Model class to View
+
